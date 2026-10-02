@@ -3,6 +3,19 @@
 Early prototype of a multi-skill agent built with **LangGraph**.  
 The agent receives a free-form prompt (English or Persian), detects the relevant skill(s), and generates a response.
 
+## AI Usage Disclosure
+
+This project was developed with the assistance of an AI coding assistant (Grok).  
+The assistant helped with:
+
+- Project structure
+- LangGraph graph design
+- Prompt engineering
+- Debugging routing loops
+- Writing documentation
+
+All final code and design decisions were reviewed and understood by the author.
+
 ## Evaluation
 
 A set of 15 varied prompts (clear, ambiguous, multi-skill, Persian) was tested.
